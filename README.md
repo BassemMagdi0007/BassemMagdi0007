@@ -35,11 +35,11 @@ Here are some of my top projects that I’ve worked on. Feel free to explore the
     <a href="https://github.com/BassemMagdi0007/Arabic-tweets-sentiment-analysis">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BassemMagdi0007&repo=Arabic-tweets-sentiment-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Arabic-tweets-sentiment-analysis">
     </a>
-    <a href="https://github.com/BassemMagdi0007/Finding-Optimal-Train-Connections">
-        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BassemMagdi0007&repo=Finding-Optimal-Train-Connections&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Finding-Optimal-Train-Connections">
-    </a>
     <a href="https://github.com/BassemMagdi0007/Tic-Tac-Toe">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BassemMagdi0007&repo=Tic-Tac-Toe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Tic-Tac-Toe">
+    </a>
+    <a href="https://github.com/BassemMagdi0007/Finding-Optimal-Train-Connections">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BassemMagdi0007&repo=Finding-Optimal-Train-Connections&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Finding-Optimal-Train-Connections">
     </a>
     <a href="https://github.com/BassemMagdi0007/LinkedList-C-MIPS">
         <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BassemMagdi0007&repo=LinkedList-C-MIPS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="LinkedList-C-MIPS">
