@@ -21,7 +21,7 @@ For me, programming isn’t just a skill—it’s an adventure, a playground, an
 
 ---
 
-### 🏆 My Top Projects
+### My Top Projects
 
 Here are some of my top projects that I’ve worked on. Feel free to explore them!
 
@@ -48,7 +48,7 @@ Here are some of my top projects that I’ve worked on. Feel free to explore the
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 These are some of the technologies I work with:
 
