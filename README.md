@@ -69,6 +69,7 @@ These are some of the technologies I work with:
 <img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />    
       
 <br >
+<br >
 
 ## GitHub Stats & Top Languages
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
