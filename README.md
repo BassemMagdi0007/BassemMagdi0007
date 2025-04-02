@@ -75,7 +75,10 @@ These are some of the technologies I work with:
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BassemMagdi0007&show_icons=true&theme=radical" alt="Bassem's GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemMagdi0007&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. <br >
+
+<br >
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 [![Bassem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BassemMagdi0007&theme=github)](https://github.com/BassemMagdi0007)
 
