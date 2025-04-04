@@ -74,7 +74,9 @@ These are some of the technologies I work with:
 ## GitHub Stats & Top Languages
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BassemMagdi0007&show_icons=true&theme=radical" alt="Bassem's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemMagdi0007&layout=compact&theme=radical" alt="Top Languages" />
+<img height="170" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BassemMagdi0007&layout=compact&theme=radical&hide=jupyter%20notebook,javascript,php,css,scala,ruby" 
+  alt="Top Languages" />
 </div>
 
 <br >
