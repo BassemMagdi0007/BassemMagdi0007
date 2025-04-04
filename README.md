@@ -85,7 +85,7 @@ These are some of the technologies I work with:
 
 [![Bassem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BassemMagdi0007&theme=github)](https://github.com/BassemMagdi0007)
 
-### GitHub Snake
+## GitHub Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BassemMagdi0007/BassemMagdi0007/output/github-snake-dark.svg" />
