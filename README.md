@@ -1,4 +1,6 @@
-# <img src="https://github.com/user-attachments/assets/7b53a840-2dd6-48f1-b6c2-12d440b15ce2" alt="scuba diver" width="50" height="50"> **𝐵𝒶𝓈𝓈𝑒𝓂 𝒮𝒽𝒶𝓁𝒶𝒷𝓎**
+# **𝒮𝑒𝓇𝓋𝓊𝓈, 𝓈𝒸𝒽ö𝓃 𝒮𝒾𝑒 𝓀𝑒𝓃𝓃𝑒𝓃𝓏𝓊𝓁𝑒𝓇𝓃𝑒𝓃! <br> 𝐼𝒸𝒽 𝒽𝑒𝒾ß𝑒 𝐵𝒶𝓈𝓈𝑒𝓂😌**
+
+<img style="padding:10px" align="right" width="220" src="https://github.com/user-attachments/assets/1341b240-1826-4ac0-9eab-aedd62dc3a89">
 
 **`𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐂𝐫𝐚𝐟𝐭𝐬𝐦𝐚𝐧`**
 
@@ -8,11 +10,9 @@ I don’t just stick to one tech stack or play it safe—I thrive on the unknown
 
 For me, programming isn’t just a skill—it’s an adventure, a playground, and a way to shape the future.
 
+<br>
+
 <p align="left">
-    <a href="https://github.com/BassemMagdi0007/followers" style="margin-right: 30px;">
-        <img alt="followers" title="Follow me on Github" 
-             src="https://custom-icon-badges.demolab.com/github/followers/BassemMagdi0007?color=6c757d&labelColor=495057&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/bassemmshalaby/" target="_blank">
         <img alt="Connect on LinkedIn" title="Connect with me on LinkedIn" 
              src="https://custom-icon-badges.demolab.com/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
