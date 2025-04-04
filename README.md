@@ -2,7 +2,7 @@
 
 **`𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐂𝐫𝐚𝐟𝐭𝐬𝐦𝐚𝐧`**
 
-I'm an indie software developer, game developer, and a potential Machine Learning Engineer, shaping my own digital universe one line of code at a time. Every project I build isn’t just about writing code—it’s about crafting experiences, solving real-world puzzles, and bringing ideas to life from the ground up.
+I'm an indie software developer, game developer, and a potential Machine Learning Engineer based in Germany, shaping my own digital universe one line of code at a time. Every project I build isn’t just about writing code—it’s about crafting experiences, solving real-world puzzles, and bringing ideas to life from the ground up.
 
 I don’t just stick to one tech stack or play it safe—I thrive on the unknown. New technologies aren’t just tools; they’re doorways to uncharted worlds, and I love diving headfirst into them, connecting the dots between different domains to create something bigger. Learning isn’t a chore; it’s a thrill. Every day is an opportunity to push the boundaries of creativity, innovation, and what’s possible.
 
